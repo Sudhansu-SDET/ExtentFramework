@@ -1,2 +1,2 @@
-# HybridFramework
-HybridFramework with testng maven extent
+# ExtentFramework
+ExtentFramework with testng maven extent
